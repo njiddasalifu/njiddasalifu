@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @njiddasalifu
+- 👋 Hi, I’m njidda salifu
 - 👀 I’m interested in learning and helping people realising their goals.
 - 🌱 I’m currently learning softare engineering and data science
 - 💞️ I’m looking to collaborate on all type of projects to gain management skills
